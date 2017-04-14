@@ -1,4 +1,6 @@
 // Data goes here.
+
+// I read this section and I'm about to commit that as a change.
 var initialData = {
   // The "user" collection. Contains all of the users in our Facebook system.
   "users": {
